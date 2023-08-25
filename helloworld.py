@@ -2,7 +2,7 @@
 Very important script.
 """
 
-print("hello world")
+print("HELLO WORLD")
 
 """
 Yes, very important
