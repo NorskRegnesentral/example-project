@@ -9,5 +9,4 @@ assignees: ''
 
 Description
 
-- Add labels
-- Add milestones
+- Add version as milestone!
